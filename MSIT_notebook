@@ -1,0 +1,49 @@
+# Recording Processing Log
+## CU
+### CU MSIT 001
+
+### CU MSIT 002
+### CU MSIT 003
+### CU MSIT 004
+#### recording observations
+good units by eye during recording
+really clean LFPs with high-frequency activity that seemed task related.
+
+### CU MSIT 005
+### CU MSIT 006
+### CU MSIT 007
+### CU MSIT 008
+### CU MSIT 009
+### CU MSIT 010
+### CU MSIT 011
+### CU MSIT 013
+
+### CU MSIT 014
+#### recording observations
+used alpha omega to drive down
+hashy but very low noise floor
+
+### CU MSIT 015
+#### recording observations
+good visual estimation of insertion. 
+500um steps with alpha omega
+surface around channel 360, could see ~1-2hz modulation well in these channels
+distinctive and maybe task related unit on 241. 
+hashy units below, very low amplitude but some modulation. try to get in there?
+really clean LFPs with reversals and high-frequency activity. particularly good looking high frequency deeper
+
+
+## MGB
+### NPIX_MSIT_MG_001
+good units from raw 
+
+## BCM
+### NPIX_MSIT_BC_001
+#### recording observations
+high amplitude from the events plot in kilosort pipeline. drift correction in progress
+
+# Units
+
+# Fields
+
+# Summary
